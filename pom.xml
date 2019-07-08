@@ -55,6 +55,7 @@
                 <executions>
                     <execution>
                         <id>Auto-clean</id>
+                        
                         <phase>initialize</phase>
                         <goals>
                             <goal>clean</goal>
