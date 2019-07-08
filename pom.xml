@@ -58,6 +58,7 @@
                         <phase>initialize</phase>
                         <goals>
                             <goal>clean</goal>
+                            
                         </goals>
                     </execution>
                 </executions>
